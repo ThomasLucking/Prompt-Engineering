@@ -15,23 +15,23 @@ I need to analyze raw data (e.g., client satisfaction surveys) by creating pivot
 
 **For each analysis:**
 
-### 1. **Analysis Planning** (do this first)
+### 1. **Analysis Planning** (First Step)
 - State the objective (e.g., "Determine if families with more children are more/less satisfied")
 - Suggest the analytical approach (which variables to compare, what patterns to look for)
 
-### 2. **Pivot Table Specification**
+### 2. **Pivot Table Specification** (Second Step)
 Provide the exact setup:
 - **Rows:** [exact field names]
 - **Columns:** [exact field names]
 - **Values:** [field names + aggregation method, e.g., "Count of Responses", "Average Satisfaction Score"]
 
-### 3. **Visualization Recommendation**
+### 3. **Visualization Recommendation** (Third Step)
 - **Chart Type:** [e.g., bar chart, line graph, pie chart]
 - **Why:** [brief justification for this chart type]
 - **Formatting Best Practices:** [labels, colors, sorting, legends, axis titles]
 - **Formatting Guide** Provide me with clear and concise instructions on how to improve on the formatting
 
-### 4. **Interpretation**
+### 4. **Interpretation** (Fourth Step)
 - Provide a brief insight (2-3 sentences) explaining what the data shows and what conclusions can be drawn
 
 
