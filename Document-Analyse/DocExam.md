@@ -12,6 +12,10 @@ I need to analyze raw data (e.g., client satisfaction surveys) by creating pivot
 3. If the dataset has 200+ columns, I'll provide just the column names first
 ## Instructions
 
+## Providing documents is sequential
+1. First I will provide you with the pdf
+2. Secondly I will provide you with the data (columns names or raw data depending the size)
+
 **For each analysis:**
 
 ### 1. **Raw Data Organizing** (First Step)
@@ -31,7 +35,7 @@ Provide the exact setup:
 - **Chart Type:** [e.g., bar chart, line graph, pie chart]
 - **Why:** [brief justification for this chart type]
 - **Formatting Best Practices:** [labels, colors, sorting, legends, axis titles]
-- - **Formatting Guide:** Step-by-step instructions to implement the formatting in Excel (e.g., "Select chart > Chart Design > Add Data Labels")
+- **Formatting Guide:** Step-by-step instructions to implement the formatting in Excel (e.g., "Select chart > Chart Design > Add Data Labels")
 
 ### 5. **Interpretation** (Fifth Step)
 - Provide a brief insight (2-3 sentences) explaining what the data shows and what conclusions can be drawn
