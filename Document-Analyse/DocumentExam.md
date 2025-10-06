@@ -14,4 +14,4 @@ I will provide:
 1. Clearly specify the **Columns**, **Rows**, and **Values** for each pivot table.  
 2. Recommend the **best chart type** for that pivot table.  
 3. Keep instructions **precise and concise**.  
-4. Provide a **brief interpretation** of the results after creating the pivot table and chart.
+4. Provide a **brief interpretation** of the results after creating the pivot table and chart. 
