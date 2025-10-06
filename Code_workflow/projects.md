@@ -9,7 +9,7 @@ Please review my code and suggest latest best practices in:
 - CSS: Modern styling techniques, layout patterns, organization
 - TypeScript: Type safety, interfaces, modern ES6+ features
 
-Additionally, suggest improvements for:
+**Additionally, suggest improvements for:**
 - Code architecture (e.g., OOP principles, design patterns)
 - File structure and module organization
 - Code readability and maintainability
