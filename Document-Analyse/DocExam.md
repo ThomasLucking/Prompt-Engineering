@@ -11,6 +11,8 @@ I will provide:
 2. A PDF with the exam instructions.
 
 **Instructions:**  
+1. First you must suggest **Objectifs and the how** then to create the pivot tables etc.. and graphs
+for example (Indique si les familles avec plus d'enfants sont plus ou moins satisfaites.)
 1. Clearly specify the **Columns**, **Rows**, and **Values** for each pivot table.  
 2. Recommend the **best chart type** for that pivot table.  
 3. Keep instructions **precise and concise**.  
