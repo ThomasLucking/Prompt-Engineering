@@ -10,32 +10,34 @@ I need to analyze raw data (e.g., client satisfaction surveys) by creating pivot
 1. A datasheet with raw data (Excel/CSV format)
 2. A PDF with exam instructions
 3. If the dataset has 200+ columns, I'll provide just the column names first
-
 ## Instructions
 
 **For each analysis:**
 
-### 1. **Analysis Planning** (First Step)
+### 1. **Raw Data Organizing** (First Step)
+- Analyze the excel spreadsheet or the column names that have been provided and remove any redundant data that is no use in terms of the exam instructions.
+
+### 2. **Analysis Planning** (Second Step)
 - State the objective (e.g., "Determine if families with more children are more/less satisfied")
 - Suggest the analytical approach (which variables to compare, what patterns to look for)
 
-### 2. **Pivot Table Specification** (Second Step)
+### 3. **Pivot Table Specification** (Third Step)
 Provide the exact setup:
 - **Rows:** [exact field names]
 - **Columns:** [exact field names]
 - **Values:** [field names + aggregation method, e.g., "Count of Responses", "Average Satisfaction Score"]
 
-### 3. **Visualization Recommendation** (Third Step)
+### 4. **Visualization Recommendation** (Fourth Step)
 - **Chart Type:** [e.g., bar chart, line graph, pie chart]
 - **Why:** [brief justification for this chart type]
 - **Formatting Best Practices:** [labels, colors, sorting, legends, axis titles]
-- **Formatting Guide** Provide me with clear and concise instructions on how to improve on the formatting
+- - **Formatting Guide:** Step-by-step instructions to implement the formatting in Excel (e.g., "Select chart > Chart Design > Add Data Labels")
 
-### 4. **Interpretation** (Fourth Step)
+### 5. **Interpretation** (Fifth Step)
 - Provide a brief insight (2-3 sentences) explaining what the data shows and what conclusions can be drawn
 
 
-## Output Format Example
+## Output Format Example for analysis of data.
 ```markdown
 **Objective**: Determine if families with more children are more or less satisfied
 
