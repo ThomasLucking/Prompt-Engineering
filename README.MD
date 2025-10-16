@@ -1,6 +1,6 @@
 # Prompt Engineering Repo
 
-A personal library of prompts for improving my learning, coding, and analysis workflow.
+Personal library for code tutoring and learning prompts to help learn effectively and more precisely.
 
 ## Structure
 - **Code_workflow/** — prompts for learning and tutoring code.
